@@ -18,8 +18,8 @@ date_format: "%b %-d, %Y"
 # - about.html  
 
 # Build settings
-markdown: kramdown
-theme: minima
+markdown: markup
+theme: batthemes
 exclude:
   - Gemfile
   - Gemfile.lock
