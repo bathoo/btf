@@ -1,22 +1,42 @@
 ---
 layout: post
+title: "Introduction"
+author: "Batho"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hi guys! I'm Batho, formely known as Before The Fame, MoreBatho and as 'Batho' too..lel
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I'm 15 year old, I sometimes play games and I record/edit them for you guys to see.
+I also produce/mix (or "make") music under the following genres:
 
-Jekyll also offers powerful support for code snippets:
+- Future Bass
+- Trap
+- Bigroom/Progressive House
+- Dubstep
+- Terror House & Terror Trap..oops😳 (Yes, that is a genre..lol..Check out [This Track][this-track] and also [This One][this-one] too!
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Those are the genre's that I produce now, but I'm always open for new genres; Just hit me up on Twitter/Mail me @ collabbro@batho.ga!
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+You can follow me on the following Social Media's:
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+- [Twitter][tweet]
+- [Instagram][ig]
+- [Facebook][fb]
+- [YouTube*][yt]
+- [Snapchat][snap]
+- [SoundCloud][sc]
+- [SoundCloud VIP][vip]
+
+*: I sometimes also upload on [CheesePotato][cp], a channel of a friend of mine. Check that out too!
+
+Thanks for checking my site out! Keep up with my site (it's more of a blog atm but idc..lel)/social media for more stuff!
+
+[this-track]: https://soundcloud.com/bathoovip/encore
+[this-one]: https://soundcloud.com/mercer/mercer-encore-saymyname-remix-1
+[tweet]: https://www.twitter.com/bathoox
+[ig]: https://www.instagram.com/bathoox
+[fb]: https://www.facebook.com/bathoox
+[yt]: https://www.youtube.com/channel/UCqwOnONT_hFcxp8fYAnHwzQ
+[cp]: https://www.youtube.com/RobloxUltraman361
+[snap]: https://www.snapchat.com/add/bathoox
+[sc]: https://www.soundcloud.com/bathoo
+[vip]: https://www.soundcloud.com/bathoovip
